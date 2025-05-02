@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduSilvaReis
 - 👀 I’m interested in learn about programming and improve my abilities
-- 🌱 I’m currently learning C#, but after I will learn java and study a front-end language
+- 🌱 I’m currently learning C#, but after I will learn python, data science and study a front-end language
 - 💞️ For now, i’m looking for a job opportunity and collaborate in the exchange of knowledge
 - 📫 You can contact me through my email :eduardo2001reis@gmail.com
